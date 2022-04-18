@@ -1,0 +1,2 @@
+# veri
+digital ic
